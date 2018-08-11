@@ -1,2 +1,2 @@
 # test
-A test repository for GIT
+A test repository for GIT et VS Code
